@@ -1,2 +1,2 @@
 # React-app
-Created the React App making Basic Components, Events, Rendering Lists &amp; Conditional Content
+A Basic React App by making basic Components & Rendering Lists and using Events & Conditional Content.
